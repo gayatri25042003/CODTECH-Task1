@@ -1,8 +1,13 @@
 Name: GAYATRI GUNJAL
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT12DS2642
+
 Domain: Cyber security & Ethical Hacking
+
 Duration: October to December 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the Project
