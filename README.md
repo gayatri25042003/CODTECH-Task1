@@ -55,5 +55,6 @@ Provide a user guide on how to use the password strength checker effectively.
 Explore additional features, like checking against a larger database of common passwords or calculating password entropy for advanced strength metrics.
 
 Technologies Used
+
 Programming Languages:
 Python: A popular choice due to its simplicity and availability of libraries like re (regular expressions) for pattern matching.
